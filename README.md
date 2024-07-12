@@ -42,6 +42,8 @@ The following technologies are used in this project:
 
 ## Usage
 
+Link to website- https://shreesanyog.github.io/photo_editor_resizer/index.html
+
 ## 1. Editor
 
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/cccd582b-7dea-4293-8740-17a24bd6df3e">
