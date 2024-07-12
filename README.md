@@ -4,6 +4,11 @@
 
 -----
 
+-----
+Link to website- https://shreesanyog.github.io/photo_editor_resizer/index.html
+
+-----
+
 Welcome to the Photo Editor! This web application allows users to resize and edit images. Users can adjust brightness, saturation, contrast,flip images and many more. Additionally, they can resize photos to their desired dimensions.
 
 ## Table of Contents
