@@ -1,6 +1,7 @@
 # Photo Editor and Resizer
 
-<img width="922" alt="image" src="https://github.com/user-attachments/assets/42c6085e-9457-476a-b2cf-bc884feb9831">
+<img width="951" alt="image" src="https://github.com/user-attachments/assets/021d2b26-ad9f-438c-b4d2-e8a248a54096">
+
 
 -----
 
