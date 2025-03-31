@@ -74,7 +74,6 @@ Link to website- https://shreesanyog.github.io/photo_editor_resizer/index.html
    Upload an image and lock aspect ratio by giving the desired dimensions. You have option to reduce quality as well.
 
 
-## License
-
-This project is licensed under the MIT License. See MIT Licence for details.
+### Key Points:
+- **"Protected by License"**: The project is **protected** by a restrictive license and cannot be used or redistributed without permission.
 
